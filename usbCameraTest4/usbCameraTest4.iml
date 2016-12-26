@@ -110,6 +110,6 @@
     <orderEntry type="module" module-name="usbCameraCommon" exported="" />
     <orderEntry type="library" exported="" name="android-android-25" level="project" />
     <orderEntry type="library" exported="" name="common-1.1.9" level="project" />
-    <orderEntry type="library" exported="" name="support-annotations-25.0.0" level="project" />
+    <orderEntry type="library" exported="" name="support-annotations-23.3.0" level="project" />
   </component>
 </module>
